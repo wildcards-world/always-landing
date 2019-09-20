@@ -40,10 +40,10 @@ class App extends React.Component {
               * Set up in a matter of minutes
               <Typist.Delay ms={1250} />
               <br />
-              * Hard to recieve pay<Typist.Delay ms={500} />ments
+              * Hard to receive pay<Typist.Delay ms={500} />ments
               <Typist.Backspace count={24} delay={1000} />
               <Typist.Delay ms={750} />
-              Recieve ad reveunve directly to your crypto wallet
+              Receive ad revenue directly to your crypto wallet
               <Typist.Delay ms={1250} />
               <br />
               ... coming soon
