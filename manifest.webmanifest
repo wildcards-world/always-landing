@@ -1,9 +1,9 @@
 {
-  "short_name": "Wildcards",
-  "name": "Wildcards DAPP",
+  "short_name": "AlwaysForSale",
+  "name": "AlwaysForSale.io",
   "icons": [
     {
-      "src": "./img/favicon-32x32.png",
+      "src": "./img/favicon.png",
       "sizes": "32x32 16x16",
       "type": "image/x-icon"
     }
